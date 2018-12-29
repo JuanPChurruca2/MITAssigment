@@ -7,3 +7,4 @@ Additional needs
 ----------
 - Soap
 - brush
+- Paint
