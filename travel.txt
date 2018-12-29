@@ -3,6 +3,8 @@ Packing list
 - Shoes
 - Shirt
 
+- additional things forsecond assigment
+
 Additional needs
 ----------
 - Soap
